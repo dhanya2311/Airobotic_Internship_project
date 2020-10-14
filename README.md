@@ -13,5 +13,5 @@
 #### (venv) C:\Users\Dhanya HM\Desktop\Airobotic_Internship_project>python diabetes_prediction_app.py"
 
 ### App interface :
-![alt text](https://github.com/DevilTech555/Airobotic_Internship_project/blob/master/output/app-image-1.JPG)
-![alt text](https://github.com/DevilTech555/Airobotic_Internship_project/blob/master/output/app-image-3.JPG)
+![alt text](https://github.com/dhanya2311/Airobotic_Internship_project/blob/master/output/image-1.JPG)
+![alt text](https://github.com/dhanya2311/Airobotic_Internship_project/blob/master/output/image-2.JPG)
